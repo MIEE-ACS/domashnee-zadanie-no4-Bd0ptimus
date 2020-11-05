@@ -134,7 +134,7 @@ namespace _2_DisArray
                 if (NumberElement0InCol != 0)
                 {
                     NumberCol_NOT_Include0--;
-                    Console.WriteLine("Index Column Include 0 : {0}", i);
+                    //Console.WriteLine("Index Column Include 0 : {0}", i);
                 }
             }
             Console.WriteLine("Number Col Not Include 0 : {0}", NumberCol_NOT_Include0);
